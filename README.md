@@ -1,2 +1,2 @@
 Nama : Muhammad Abdiel Firjatullah <br>
-Divisi : Full Stack Web Developer
+Posisi : Full Stack Web Developer
